@@ -1,0 +1,77 @@
+.services {
+  height: 700px;
+  border: 2px solid rgba(117, 117, 117, 0.281);
+}
+
+.services h1 {
+  margin-top: 30px;
+  margin-left: 330px;
+  margin-bottom: 30px;
+}
+
+.services .cars {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 255px;
+  /* border: 3px solid skyblue; */
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.services .cars .car {
+  width: 370px;
+  height: 250px;
+  border: 3px solid  green;
+}
+
+.services .cars .car h2 {
+  margin-top: 5px;
+  margin-left: 45px;
+  margin-bottom: 10px;
+}
+
+.services .cars .car p {
+  margin-top: 5px;
+  margin-left: 70px;
+  margin-bottom: 10px;
+}
+
+.services .cars-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 255px;
+  /* border: 3px solid pink; */
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.services .cars-2 .car {
+  width: 370px;
+  height: 250px;
+  border: 3px solid  green;
+}
+
+.services .cars-2 .car h2 {
+  margin-top: 5px;
+  margin-left: 45px;
+  margin-bottom: 10px;
+}
+
+.services .cars-2 .car p {
+  margin-top: 5px;
+  margin-left: 70px;
+  margin-bottom: 10px;
+}
+
+.services .img-car {
+  width: 50px;
+  height: 50px;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+/*# sourceMappingURL=services.css.map */

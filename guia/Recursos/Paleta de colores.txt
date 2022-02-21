@@ -1,0 +1,18 @@
+Todas las letras : Blanco
+Algunas letras en un verde diferente. 
+Portada en un griz
+El resto e un griz oscuro 
+
+Verde - #1E824C
+gris -#39414d  (https://www.0to255.com/657287) 
+ negro - #111 (https://www.0to255.com/000)
+
+Tipografia: 
+
+-html : 
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+
+-css: 
+font-family: 'Roboto', sans-serif;

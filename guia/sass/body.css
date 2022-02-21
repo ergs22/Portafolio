@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #242830;
+  color: white;
+}
+
+.contenedor {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.contenedor .barra {
+  background-color: #121114;
+  width: 5%;
+}
+
+.contenedor main {
+  margin-left: 230px;
+  width: 60%;
+}
+/*# sourceMappingURL=body.css.map */

@@ -1,0 +1,67 @@
+.about-me {
+  height: 400px;
+  border: 2px solid rgba(117, 117, 117, 0.281);
+}
+
+.about-me h1 {
+  width: 120px;
+  margin: 30px 350px 20px;
+}
+
+.about-me .about-me-explain {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  /* border:5px solid blue; */
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  height: 315px;
+}
+
+.about-me .about-me-explain .profile {
+  width: 170px;
+  height: 200px;
+  border: 5px solid red;
+}
+
+.about-me .about-me-explain .explain {
+  width: 550px;
+}
+
+.about-me .about-me-explain .explain .contact {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 120px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.about-me .about-me-explain .explain .contact .contact-1 > p {
+  margin-bottom: 10px;
+}
+
+.about-me .about-me-explain .explain .contact .contact-2 > p {
+  margin-bottom: 10px;
+}
+
+.about-me .about-me-explain .explain .bottom {
+  border: 3px solid white;
+  height: 45px;
+  width: 130px;
+  padding-top: 9px;
+  padding-left: 8px;
+}
+
+.about-me .about-me-explain .explain .bottom a {
+  text-decoration: none;
+  color: white;
+}
+/*# sourceMappingURL=about-me.css.map */

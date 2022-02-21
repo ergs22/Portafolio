@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{ font-family: 'Open Sans', sans-serif;
+      background-color:#242830; // Correcto para el fondo//
+      color:white;
+}
+
+
+.contenedor {
+    display: flex;
+
+    .barra {
+        background-color:#121114; // color perfecto para la barrra//
+        width:5%;
+    }
+
+    main {
+        margin-left:230px;
+        width: 60%;
+    }
+
+}
